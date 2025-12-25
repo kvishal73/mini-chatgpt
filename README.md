@@ -1,0 +1,2 @@
+# mini-chatgpt
+minor project 
